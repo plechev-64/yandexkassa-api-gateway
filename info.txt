@@ -1,0 +1,8 @@
+Name: YandexKassa API Gateway;
+Parent Addon: user-balance;
+Version: 1.1.4;
+Support Core: 16.24.0;
+ItemID: 21970;
+Description: Подключение сайта к платежному агрегатору Яндекс.Касса по API (новый протокол);
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
